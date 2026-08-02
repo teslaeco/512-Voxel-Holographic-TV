@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/25aa0d49-c5f1-4d55-8b6a-2c84551dc302">
-    <img src="https://img.shields.io/badge/▶_PLAY-CONCEPT_FILM-ff1744?style=for-the-badge" alt="Play concept film">
-  </a>
-</p>
-
-<p align="center">
   <em>From an 8-level chessboard to a new kind of spatial screen.</em>
 </p>
 
@@ -18,21 +12,53 @@
 
 ## Concept preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/17557e5d-1669-4dba-bbbe-069e0bf59604" alt="Seamless 512 Voxel Holographic TV concept" width="100%">
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/user-attachments/assets/17557e5d-1669-4dba-bbbe-069e0bf59604">
+        <img src="https://github.com/user-attachments/assets/17557e5d-1669-4dba-bbbe-069e0bf59604" alt="Seamless 512 Voxel Holographic TV concept" width="430">
+      </a>
+      <br>
+      <sub><strong>Seamless image volume</strong><br>One continuous spatial image without visible divisions.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/user-attachments/assets/a630594f-7079-4d53-bdf9-c87587fc75bc">
+        <img src="https://github.com/user-attachments/assets/a630594f-7079-4d53-bdf9-c87587fc75bc" alt="512-cell modular display concept" width="430">
+      </a>
+      <br>
+      <sub><strong>Visible voxel structure</strong><br>The modular 8 × 8 × 8 arrangement of 512 spatial cells.</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <em>A seamless visualisation of the intended viewing experience — one continuous image volume without visible divisions.</em>
-</p>
+<p align="center"><sub>Click either image to open it at full resolution.</sub></p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a630594f-7079-4d53-bdf9-c87587fc75bc" alt="512-cell modular display concept" width="100%">
-</p>
+---
 
-<p align="center">
-  <em>A modular visualisation showing the 8 × 8 × 8 structure and the idea of 512 separate spatial cells.</em>
-</p>
+## Watch the concept films
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <h3>Main concept film</h3>
+      <a href="https://github.com/user-attachments/assets/25aa0d49-c5f1-4d55-8b6a-2c84551dc302">
+        <img src="https://img.shields.io/badge/▶_PLAY-MAIN_CONCEPT_FILM-00b8ff?style=for-the-badge" alt="Play main concept film">
+      </a>
+      <br><br>
+      <sub>The first visual presentation of the 512-voxel display concept.</sub>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <h3>Additional concept film</h3>
+      <a href="https://github.com/user-attachments/assets/944ee4c6-00df-4a77-acc7-8932a806ac72">
+        <img src="https://img.shields.io/badge/▶_PLAY-ADDITIONAL_CONCEPT_FILM-7b61ff?style=for-the-badge" alt="Play additional concept film">
+      </a>
+      <br><br>
+      <sub>An additional film expanding the visual direction of the project.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>The buttons open GitHub's media viewer and preserve each film's original aspect ratio.</sub></p>
 
 ---
 
@@ -161,26 +187,6 @@ The television concept expands this architecture beyond chess into films, games,
 - improve viewing quality and colour depth,
 - investigate modular panels and larger installations.
 
-## Watch the concept films
-
-### Main concept film
-
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/25aa0d49-c5f1-4d55-8b6a-2c84551dc302">
-    <img src="https://img.shields.io/badge/▶_PLAY-MAIN_CONCEPT_FILM-00b8ff?style=for-the-badge" alt="Play main concept film">
-  </a>
-</p>
-
-### Additional concept film
-
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/944ee4c6-00df-4a77-acc7-8932a806ac72">
-    <img src="https://img.shields.io/badge/▶_PLAY-ADDITIONAL_CONCEPT_FILM-7b61ff?style=for-the-badge" alt="Play additional concept film">
-  </a>
-</p>
-
-The buttons open GitHub's media viewer, where the films can be played in their original aspect ratio.
-
 ## Status
 
 **Current phase:** early concept, visual research and project documentation.
@@ -216,10 +222,4 @@ Please use GitHub Issues to discuss research directions, technical limitations a
 
 <p align="center">
   <strong>From 512 chess positions to a new kind of spatial screen.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/944ee4c6-00df-4a77-acc7-8932a806ac72">
-    <img src="https://img.shields.io/badge/▶_WATCH_THE_FINAL_FILM-512_VOXEL_TV-ff8c00?style=for-the-badge" alt="Watch the final film">
-  </a>
 </p>
