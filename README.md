@@ -5,55 +5,67 @@
 </p>
 
 <p align="center">
-  <a href="media/512-voxel-holographic-tv-concept.mp4">
+  <a href="https://github.com/user-attachments/assets/25aa0d49-c5f1-4d55-8b6a-2c84551dc302">
     <img src="https://img.shields.io/badge/▶_PLAY-CONCEPT_FILM-ff1744?style=for-the-badge" alt="Play concept film">
   </a>
 </p>
 
 <p align="center">
-  <a href="media/512-voxel-holographic-tv-concept.mp4"><strong>▶ Play the concept film</strong></a>
+  <em>From an 8-level chessboard to a new kind of spatial screen.</em>
 </p>
 
+---
 
+## Concept preview
 
-https://github.com/user-attachments/assets/25aa0d49-c5f1-4d55-8b6a-2c84551dc302
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17557e5d-1669-4dba-bbbe-069e0bf59604" alt="Seamless 512 Voxel Holographic TV concept" width="100%">
+</p>
 
-<img width="1536" height="1024" alt="33094" src="https://github.com/user-attachments/assets/17557e5d-1669-4dba-bbbe-069e0bf59604" />
-<img width="1536" height="1024" alt="33095" src="https://github.com/user-attachments/assets/a630594f-7079-4d53-bdf9-c87587fc75bc" />
+<p align="center">
+  <em>A seamless visualisation of the intended viewing experience — one continuous image volume without visible divisions.</em>
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a630594f-7079-4d53-bdf9-c87587fc75bc" alt="512-cell modular display concept" width="100%">
+</p>
 
-![512 Voxel Holographic TV — clean volumetric concept](assets/512-voxel-holographic-tv-clean-concept.jpg)
+<p align="center">
+  <em>A modular visualisation showing the 8 × 8 × 8 structure and the idea of 512 separate spatial cells.</em>
+</p>
+
+---
 
 ## Vision
 
-**512 Voxel Holographic TV** explores a new form of display in which an image is not limited to a flat rectangle. The proposed device is a transparent three-dimensional cube divided logically into **8 × 8 × 8 positions**, giving a total of **512 addressable spatial cells (voxels)**.
+**512 Voxel Holographic TV** explores a new form of display in which an image is not limited to a flat rectangle. The proposed device is a transparent three-dimensional cube divided logically into **8 × 8 × 8 positions**, giving a total of **512 addressable spatial cells — voxels**.
 
-The concept grew from the development of **Cube Chess 512**, an 8-level chess system. A board made of 512 playable positions naturally suggested a wider question: could the same spatial architecture become a new type of television, game display and visualization platform?
+The concept grew from the development of **Cube Chess 512**, an eight-level chess system. A board made of 512 playable positions naturally suggested a wider question:
 
-Instead of showing only a left-to-right and top-to-bottom image, the display is intended to add real depth. Viewers could sit or stand around the device and observe the same scene from different directions.
+> Could the same spatial architecture become a new type of television, game display and visualisation platform?
+
+Instead of showing only width and height, the display would add real depth. Viewers could sit or stand around the device and observe the same scene from different directions.
 
 ## Core idea
-
-The display volume is represented as:
 
 ```text
 8 voxels wide × 8 voxels high × 8 voxels deep = 512 voxels
 ```
 
-Each voxel would act as an independently controlled point or miniature image volume. Together, the 512 cells could form moving objects, characters, landscapes, interfaces and game pieces inside a transparent cube.
+Each voxel would act as an independently controlled point or miniature image volume. Together, the cells could form moving objects, characters, landscapes, interfaces, scientific models and game pieces inside a transparent cube.
 
-The current repository presents an early visual and conceptual study. The images are artistic visualizations, not photographs of a finished physical prototype.
+The current repository presents an early visual and conceptual study. The images are artistic visualisations, not photographs of a finished physical prototype.
 
 ## Why 512 voxels?
 
-The number 512 is not arbitrary. It comes directly from the spatial structure of Cube Chess:
+The number 512 comes directly from the spatial structure of Cube Chess:
 
 - 8 positions on the X axis,
 - 8 positions on the Y axis,
 - 8 positions on the Z axis,
 - 512 positions in total.
 
-This structure provides a simple, understandable foundation for experiments with volumetric graphics. A first prototype could use relatively large cells to demonstrate motion and depth. Later generations could increase the voxel density while preserving the same modular principle.
+This structure provides a simple and understandable foundation for experiments with volumetric graphics. A first demonstrator could use relatively large cells to prove motion and depth. Later generations could increase voxel density while preserving the same modular principle.
 
 ## Intended viewing experience
 
@@ -64,38 +76,28 @@ A future version could allow people to:
 - move around the display instead of rotating a virtual camera,
 - play Cube Chess with pieces located at physical depth levels,
 - inspect planets, vehicles, buildings and engineering models,
-- visualize medical, scientific and educational data,
+- visualise medical, scientific and educational data,
 - interact using hand tracking, controllers, voice or artificial intelligence.
 
 The goal is not merely to place a 3D picture behind glass. The long-term vision is a display where the composition of the image changes correctly with the viewer's position and where multiple observers can share the same spatial scene.
 
-## Visual concept: with visible voxel structure
+## Porch Visitor concept
 
-The following visualization deliberately exposes the 8 × 8 × 8 modular idea. The grid represents separate transparent display cells and helps explain how the device could be assembled.
-
-![512 separate display cells](assets/512-voxel-holographic-tv-grid-concept.jpg)
-
-## Visual concept: seamless image volume
-
-The cleaner visualization shows the desired final experience: the technical divisions disappear and the viewer sees one continuous spatial image.
-
-![Seamless volumetric image](assets/512-voxel-holographic-tv-clean-concept.jpg)
-
-The bird scene is inspired by the theme:
+The seamless visualisation is inspired by the theme:
 
 > 🐦 **Porch Visitor — curious feathers, cautious steps, a small guest at home.**
 
-It demonstrates how an ordinary intimate moment could be mixed with a large cinematic world. The small visitor on the porch becomes part of a scene extending through the full image volume.
+It demonstrates how an ordinary, intimate moment could be mixed with a large cinematic world. A small bird visiting a porch becomes part of a scene extending through the full image volume.
 
 ## Possible technical directions
 
-This repository does not claim that one final hardware method has already been selected. Several research paths may be evaluated:
+No single hardware method has been selected yet. Several research paths may be evaluated:
 
 1. **Stacked transparent display layers** — multiple transparent planes positioned at different depths.
-2. **Voxel modules** — individually addressable transparent or translucent cells containing emitters, light guides or scattering elements.
-3. **Projection into controlled media** — light directed into fog, particles, rotating surfaces or other volumetric media.
-4. **Light-field techniques** — different rays directed toward different viewing angles to create depth without glasses.
-5. **Hybrid display** — a transparent physical cube combined with projection, tracking and software reconstruction.
+2. **Voxel modules** — independently controlled transparent or translucent cells containing emitters, light guides or scattering elements.
+3. **Projection into controlled media** — light directed into fog, particles, rotating surfaces or another volumetric medium.
+4. **Light-field techniques** — different light rays directed toward different viewing angles to create depth without glasses.
+5. **Hybrid display** — a transparent physical cube combined with projection, viewer tracking and software reconstruction.
 
 Each path has different limitations involving brightness, transparency, resolution, heat, refresh rate, viewing angle and cost. The project therefore begins with simulation and visual experiments before committing to a physical architecture.
 
@@ -106,8 +108,8 @@ A practical device would need to solve several difficult problems:
 - keeping inactive voxels nearly invisible,
 - producing sufficient brightness without destroying transparency,
 - preventing light from one cell from contaminating neighbouring cells,
-- synchronizing all 512 cells at video frame rates,
-- minimizing wiring and control electronics inside the viewing volume,
+- synchronising all 512 cells at video frame rates,
+- minimising wiring and control electronics inside the viewing volume,
 - dissipating heat safely,
 - rendering the correct scene for viewers at different positions,
 - scaling from 512 large voxels to much higher spatial resolution.
@@ -131,7 +133,7 @@ The television concept expands this architecture beyond chess into films, games,
 ### Stage 1 — Concept documentation
 
 - preserve the origin and development of the idea,
-- publish visualizations and the first film,
+- publish visualisations and concept films,
 - define terminology and potential use cases.
 
 ### Stage 2 — Software simulator
@@ -145,48 +147,45 @@ The television concept expands this architecture beyond chess into films, games,
 
 - build a reduced 2 × 2 × 2 or 4 × 4 × 4 module,
 - compare transparent display and light-guiding methods,
-- measure visibility, heat and optical cross-talk.
+- measure visibility, temperature and optical cross-talk.
 
 ### Stage 4 — Full 8 × 8 × 8 prototype
 
 - connect 512 independently controlled cells,
-- implement real-time rendering and synchronization,
+- implement real-time rendering and synchronisation,
 - demonstrate Cube Chess, animation and scientific models.
 
 ### Stage 5 — Higher-resolution system
 
-- miniaturize the cells,
+- miniaturise the cells,
 - improve viewing quality and colour depth,
 - investigate modular panels and larger installations.
 
-## Repository structure
+## Watch the concept films
 
-```text
-.
-├── README.md
-├── CODEX_TASK.md
-├── assets/
-│   ├── 512-voxel-holographic-tv-clean-concept.jpg
-│   └── 512-voxel-holographic-tv-grid-concept.jpg
-└── media/
-    └── 512-voxel-holographic-tv-concept.mp4
-```
-
-## Watch the film
+### Main concept film
 
 <p align="center">
-  <a href="media/512-voxel-holographic-tv-concept.mp4">
-    <img src="https://img.shields.io/badge/▶_PLAY_THE_FILM-512_VOXEL_TV-00b8ff?style=for-the-badge" alt="Play the film">
+  <a href="https://github.com/user-attachments/assets/25aa0d49-c5f1-4d55-8b6a-2c84551dc302">
+    <img src="https://img.shields.io/badge/▶_PLAY-MAIN_CONCEPT_FILM-00b8ff?style=for-the-badge" alt="Play main concept film">
   </a>
 </p>
 
-GitHub may open the MP4 file on a separate page. Select the media player there to start playback.
+### Additional concept film
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/944ee4c6-00df-4a77-acc7-8932a806ac72">
+    <img src="https://img.shields.io/badge/▶_PLAY-ADDITIONAL_CONCEPT_FILM-7b61ff?style=for-the-badge" alt="Play additional concept film">
+  </a>
+</p>
+
+The buttons open GitHub's media viewer, where the films can be played in their original aspect ratio.
 
 ## Status
 
 **Current phase:** early concept, visual research and project documentation.
 
-No functioning 512-voxel hardware prototype is claimed at this stage. The repository is intended to document the idea honestly, invite technical discussion and provide a foundation for simulations and future experiments.
+No functioning 512-voxel hardware prototype is claimed at this stage. The repository documents the idea honestly, invites technical discussion and provides a foundation for simulation and future experiments.
 
 ## Authorship and rights
 
@@ -208,7 +207,7 @@ Constructive collaboration is welcome in areas such as:
 - GPU rendering,
 - voxel compression and streaming,
 - real-time tracking,
-- Cube Chess visualization,
+- Cube Chess visualisation,
 - physical prototyping.
 
 Please use GitHub Issues to discuss research directions, technical limitations and potential experiments.
@@ -219,6 +218,8 @@ Please use GitHub Issues to discuss research directions, technical limitations a
   <strong>From 512 chess positions to a new kind of spatial screen.</strong>
 </p>
 
-
-https://github.com/user-attachments/assets/944ee4c6-00df-4a77-acc7-8932a806ac72
-
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/944ee4c6-00df-4a77-acc7-8932a806ac72">
+    <img src="https://img.shields.io/badge/▶_WATCH_THE_FINAL_FILM-512_VOXEL_TV-ff8c00?style=for-the-badge" alt="Watch the final film">
+  </a>
+</p>
