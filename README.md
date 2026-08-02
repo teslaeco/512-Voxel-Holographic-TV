@@ -14,6 +14,14 @@
   <a href="media/512-voxel-holographic-tv-concept.mp4"><strong>▶ Play the concept film</strong></a>
 </p>
 
+
+
+https://github.com/user-attachments/assets/25aa0d49-c5f1-4d55-8b6a-2c84551dc302
+
+<img width="1536" height="1024" alt="33094" src="https://github.com/user-attachments/assets/17557e5d-1669-4dba-bbbe-069e0bf59604" />
+<img width="1536" height="1024" alt="33095" src="https://github.com/user-attachments/assets/a630594f-7079-4d53-bdf9-c87587fc75bc" />
+
+
 ![512 Voxel Holographic TV — clean volumetric concept](assets/512-voxel-holographic-tv-clean-concept.jpg)
 
 ## Vision
@@ -210,3 +218,7 @@ Please use GitHub Issues to discuss research directions, technical limitations a
 <p align="center">
   <strong>From 512 chess positions to a new kind of spatial screen.</strong>
 </p>
+
+
+https://github.com/user-attachments/assets/944ee4c6-00df-4a77-acc7-8932a806ac72
+
